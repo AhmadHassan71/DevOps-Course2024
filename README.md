@@ -93,7 +93,7 @@
   <h3>💰 Apna Budget - Empowering Your Financial Future</h3>
   <p>
     🚀 <strong>Role:</strong> Chief Product Officer & Product Engineer<br>
-    🛠️ <strong>Technologies:</strong> Flutter, Firebase, MVVM Architecture<br>
+    🛠️ <strong>Technologies:</strong> Flutter, MongoDB, MVVM Architecture<br>
     🌟 <strong>Highlights:</strong>
     <ul>
       <li>Built a comprehensive budgeting app that retrieves transaction data via SMS/Notifications.</li>
